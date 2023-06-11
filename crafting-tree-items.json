@@ -10,13 +10,6 @@
 		},
 	],
     "selectableItems": [
-        {
-            "name": "obsidian",
-            "displayName": "Obsidiana",
-            "modName": "Terraria",
-            "itemSpacing": [150, 300, 450],
-            "radial": true
-        },
 	{
             "name": "obsidian_skull",
             "displayName": "Calavera de Obsidiana",
