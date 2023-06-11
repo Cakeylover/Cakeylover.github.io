@@ -12,7 +12,7 @@
 		},
 		{
 			"id": 1,
-			"name": "obsidian-skull",
+			"name": "obsidian_skull",
 			"displayName": "Obsidian Skull",
 			"craftingStation": "anvil",
 			"ingredients": [0,20],
