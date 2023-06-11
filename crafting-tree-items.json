@@ -11,8 +11,8 @@
 	],
     "selectableItems": [
 	{
-            "name": "obsidian-skull",
-            "displayName": "Obsidian Skull",
+            "name": "obsidian",
+            "displayName": "Obsidian",
             "modName": "Terraria",
             "itemSpacing": [150, 300, 450],
             "radial": true
