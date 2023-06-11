@@ -3,12 +3,23 @@
 		{
 			"id": 0,
 			"name": "obsidian",
-			"displayName": "Obsidiana",
+			"displayName": "Obsidian",
 			"craftingStation": "",
 			"ingredients": [],
 			"quantityMade": 1,
 			"acquisition": "Created when Water and Lava flow into eachother",
 			"wikiLink": ""
+		},
+		{
+			"id": 1,
+			"name": "obsidian-skull",
+			"displayName": "Obsidian Skull",
+			"craftingStation": "anvil",
+			"ingredients": [0,20],
+			"quantityMade": 1,
+			"acquisition": "",
+			"wikiLink": ""
 		}
+		
 	]
 }
