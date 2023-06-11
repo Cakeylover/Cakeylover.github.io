@@ -14,7 +14,7 @@
 			"id": 1,
 			"name": "obsidian_skull",
 			"displayName": "Calavera de Obsidiana",
-			"craftingStation": "",
+			"craftingStation": "anvil",
 			"ingredients": [[0,20]],
 			"quantityMade": 1,
 			"acquisition": "",
