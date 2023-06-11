@@ -1,25 +1,22 @@
-{
-	"inGameItems": [
-		{
-			"id": 0,
-			"name": "obsidian",
-			"displayName": "Obsidian",
-			"craftingStation": "",
-			"ingredients": [],
-			"quantityMade": 1,
-			"acquisition": "Created when Water and Lava flow into eachother",
-			"wikiLink": ""
-		},
-		{
-			"id": 1,
-			"name": "obsidian_skull",
-			"displayName": "Obsidian Skull",
-			"craftingStation": "anvil",
-			"ingredients": [0,20],
-			"quantityMade": 1,
-			"acquisition": "",
-			"wikiLink": ""
-		}
-		
-	]
-}
+[
+  {
+    "id": 0,
+    "name": "obsidian",
+    "displayName": "Obsidian",
+    "acquisition": "Created when water and lava flow into eachother",
+    "craftingStation": "",
+    "ingredients": "",
+    "quantity": 1,
+    "wikiLink": ""
+  },
+  {
+    "id": 1,
+    "name": "obsidian-skull",
+    "displayName": "Obsidian Skull",
+    "acquisition": "",
+    "craftingStation": "anvil",
+    "ingredients": "obsidian,20",
+    "quantity": 1,
+    "wikiLink": ""
+  }
+]
