@@ -3,7 +3,11 @@
 		{
 			"name": "by-hand",
 			"displayName": "By Hand"
-		}
+		},
+	    	{
+			"name": "anvil",
+			"displayName": "Iron/Lead Anvil"
+		},
 	],
     "selectableItems": [
         {
