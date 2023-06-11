@@ -3,15 +3,11 @@
 		{
 			"name": "by-hand",
 			"displayName": "By Hand"
-		},
-	    	{
-			"name": "anvil",
-			"displayName": "Iron/Lead Anvil"
-		},
+		}
 	],
     "selectableItems": [
 	{
-            "name": "obsidian_skull",
+            "name": "obsidian",
             "displayName": "Calavera de Obsidiana",
             "modName": "Terraria",
             "itemSpacing": [150, 300, 450],
